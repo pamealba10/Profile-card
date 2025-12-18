@@ -12,7 +12,7 @@ Tarjeta de perfil sencilla hecha con HTML y CSS. El objetivo principal fue centr
 - Tarjeta de 240x500 px, bordes redondeados.
 - Imagen de perfil circular, nombre, ubicación, descripción y enlaces tipo botón.
 
-![tarjeta](img/tarjeta.png)
+![Tarjeta](tarjeta.png)
 
 ## Cómo probar
 1) Abre el archivo `reto.html` directamente en tu navegador (doble clic o "Open with Browser").

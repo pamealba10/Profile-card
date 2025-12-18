@@ -5,12 +5,14 @@ Tarjeta de perfil sencilla hecha con HTML y CSS. El objetivo principal fue centr
 ## Estructura
 - `reto.html`: Marcado principal de la tarjeta.
 - `reto.css`: Estilos de la tarjeta y el centrado.
-- `img`: Coloca aquí la imagen para la tarjeta.
+- `img/`: Coloca aquí la imagen para la tarjeta.
 
 ## Vista rápida
 - Fondo oscuro (`#141414`).
 - Tarjeta de 240x500 px, bordes redondeados.
 - Imagen de perfil circular, nombre, ubicación, descripción y enlaces tipo botón.
+
+![tarjeta](img/tarjeta.png)
 
 ## Cómo probar
 1) Abre el archivo `reto.html` directamente en tu navegador (doble clic o "Open with Browser").
